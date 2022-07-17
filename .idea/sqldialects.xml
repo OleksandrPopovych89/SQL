@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/src/resucres/Querys.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/src/resucres/01_DataSempingQuery.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/resucres/02_ArichmeticQuerys.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/resucres/03_DateAndTime.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/resucres/07_ForeignKeys.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/resucres/08_Joins.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/resucres/employee.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/resucres/holiday.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/resucres/way.sql" dialect="PostgreSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
